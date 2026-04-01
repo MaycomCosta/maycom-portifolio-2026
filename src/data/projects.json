@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Cosmic voyages",
+    "description": "A Blog of space travel and exploration with stunning visuals and immersive storytelling",
+    "stack": ["React", "Vite", "Styled Components"],
+    "category": "Blog",
+    "image": "../assets/CosmicVoyages.webp",
+    "live": "https://cosmic-voyages.netlify.app",
+    "github": "https://github.com/MaycomCosta/cosmic-voyages-front",
+    "featured": true,
+    "year": "2025"
+  },
+  {
+    "id": 2,
+    "name": "JS fundamentals",
+    "description": "Exercises and projects to master JavaScript fundamentals with interactive coding challenges",
+    "stack": ["React", "Vite", "JavaScript"],
+    "category": "Educational",
+    "image": "../assets/Jsfundamentals.webp",
+    "live": "https://myjsfundamentals.netlify.app",
+    "github": "https://github.com/MaycomCosta/JS-fundamentals",
+    "featured": true,
+    "year": "2025"
+  },
+  {
+    "id": 3,
+    "name": "Type The Globe",
+    "description": "Typing game that challenges players to type words associated with different countries and cultures around the world",
+    "stack": ["React.js", "Vite"],
+    "category": "Game",
+    "image": "../assets/Globe.png",
+    "live": "http://typetheglobe.netlify.app/",
+    "github": "https://github.com/MaycomCosta/TypeTheGlobe",
+    "featured": true,
+    "year": "2023"
+  },
+  {
+    "id": 4,
+    "name": "Financel Control",
+    "description": "Personal finance management app with budgeting and expense tracking features",
+    "stack": ["React", "Vite"],
+    "category": "Productivity",
+    "image": "../assets/FinancelIMG.png",
+    "live": "https://controleseudindin.netlify.app",
+    "github": "https://github.com/MaycomCosta/Finance-Control",
+    "featured": false,
+    "year": "2024"
+  },
+  {
+    "id": 5,
+    "name": "Meridian API",
+    "description": "Scalable RESTful API with JWT authentication and rate limiting",
+    "stack": ["Node.js", "Express", "PostgreSQL"],
+    "category": "Backend",
+    "image": "/assets/projects/project5.png",
+    "live": "",
+    "github": "https://github.com/MaycomCosta",
+    "featured": false,
+    "year": "2023"
+  },
+  {
+    "id": 6,
+    "name": "Verso Magazine",
+    "description": "Digital magazine platform with editorial layout engine",
+    "stack": ["Next.js", "Sanity CMS", "Tailwind"],
+    "category": "Landing Page",
+    "image": "/assets/projects/project6.png",
+    "live": "https://example.com",
+    "github": "https://github.com/MaycomCosta",
+    "featured": false,
+    "year": "2024"
+  }
+]

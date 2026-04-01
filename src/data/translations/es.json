@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "work": "Trabajos",
+    "about": "Sobre mí",
+    "contact": "Contacto",
+    "menu": "Menú"
+  },
+  "hero": {
+    "label": "Desarrollador Frontend & Full Stack",
+    "title_1": "Maycom",
+    "title_2": "Costa",
+    "title_italic": "Lee",
+    "tagline": "Construyendo experiencias web modernas y escalables",
+    "cta": "Ver Proyectos",
+    "scroll": "Bajar",
+    "location": "São Paulo — Brasil",
+    "available": "Disponible para proyectos"
+  },
+  "marquee": {
+    "text": "React — TypeScript — Node.js — Next.js — Vite — Styled Components — PostgreSQL — Docker — Figma — AWS —"
+  },
+  "about": {
+    "label": "Sobre mí",
+    "index": "01",
+    "title": "Creando experiencias\ndigitales",
+    "title_italic": "que perduran.",
+    "body_1": "Desarrollo aplicaciones web modernas, landing pages y soluciones digitales. Enfocado en UI limpia, rendimiento y arquitectura escalable.",
+    "body_2": "Cada proyecto es una oportunidad de unir precisión técnica con diseño refinado.",
+    "cta": "Descargar CV",
+    "stat_1_num": "3+",
+    "stat_1_label": "Años",
+    "stat_2_num": "20+",
+    "stat_2_label": "Proyectos",
+    "stat_3_num": "15+",
+    "stat_3_label": "Tecnologías"
+  },
+  "projects": {
+    "label": "Trabajos Seleccionados",
+    "index": "02",
+    "filter_all": "Todos",
+    "view": "Ver Proyecto",
+    "code": "Código",
+    "no_results": "No se encontraron proyectos.",
+    "featured_label": "Destacado"
+  },
+  "skills": {
+    "label": "Especialidades",
+    "index": "03",
+    "title": "Tecnología\n& Craft",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Herramientas"
+  },
+  "contact": {
+    "label": "Contacto",
+    "index": "04",
+    "title": "Creemos algo\n",
+    "title_italic": "excepcional.",
+    "name": "Nombre",
+    "email": "Correo",
+    "message": "Mensaje",
+    "send": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "success": "Mensaje enviado.",
+    "email_label": "Correo",
+    "phone_label": "Teléfono",
+    "location_label": "Ubicación"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "tagline": "Desarrollador Frontend"
+  }
+}

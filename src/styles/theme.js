@@ -1,0 +1,46 @@
+export const theme = {
+  colors: {
+    white: "#FAFAF8",
+    black: "#0D0D0D",
+    ink: "#1A1A1A",
+    gray100: "#F5F4F0",
+    gray200: "#EBEBEB",
+    gray300: "#D4D4D4",
+    gray400: "#A0A0A0",
+    gray500: "#6B6B6B",
+    gray600: "#3D3D3D",
+    warm: "#F0EDE8",
+    warmDark: "#E8E3DC",
+    accent: "#C8A96E",      // warm gold — luxury touch
+    accentLight: "rgba(200,169,110,0.12)",
+  },
+  fonts: {
+    display: "'Playfair Display', serif",
+    heading: "'Cormorant Garamond', serif",
+    body: "'DM Sans', sans-serif",
+    mono: "'DM Mono', monospace",
+    label: "'Barlow Condensed', sans-serif",
+  },
+  spacing: {
+    xs: "0.375rem",
+    sm: "0.75rem",
+    md: "1.25rem",
+    lg: "2rem",
+    xl: "3.5rem",
+    xxl: "6rem",
+    xxxl: "10rem",
+  },
+  breakpoints: {
+    sm: "640px",
+    md: "768px",
+    lg: "1024px",
+    xl: "1280px",
+    xxl: "1600px",
+  },
+  transitions: {
+    fast: "0.2s cubic-bezier(0.16, 1, 0.3, 1)",
+    base: "0.4s cubic-bezier(0.16, 1, 0.3, 1)",
+    slow: "0.7s cubic-bezier(0.16, 1, 0.3, 1)",
+    reveal: "0.9s cubic-bezier(0.16, 1, 0.3, 1)",
+  },
+};

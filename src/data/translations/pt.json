@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "work": "Trabalhos",
+    "about": "Sobre",
+    "contact": "Contato",
+    "menu": "Menu"
+  },
+  "hero": {
+    "label": "Desenvolvedor Frontend & Full Stack",
+    "title_1": "Maycom",
+    "title_2": "Costa",
+    "title_italic": "Lee",
+    "tagline": "Criando experiências web modernas e escaláveis",
+    "cta": "Ver Projetos",
+    "scroll": "Rolar",
+    "location": "São Paulo — Brasil",
+    "available": "Disponível para projetos"
+  },
+  "marquee": {
+    "text": "React — TypeScript — Node.js — Next.js — Vite — Styled Components — PostgreSQL — Docker — Figma — AWS —"
+  },
+  "about": {
+    "label": "Sobre",
+    "index": "01",
+    "title": "Criando experiências\ndigitais",
+    "title_italic": "que perduram.",
+    "body_1": "Desenvolvo aplicações web modernas, landing pages e soluções digitais. Focado em UI limpa, performance e arquitetura escalável.",
+    "body_2": "Cada projeto é uma oportunidade de unir precisão técnica com design refinado.",
+    "cta": "Baixar CV",
+    "stat_1_num": "3+",
+    "stat_1_label": "Anos",
+    "stat_2_num": "20+",
+    "stat_2_label": "Projetos",
+    "stat_3_num": "15+",
+    "stat_3_label": "Tecnologias"
+  },
+  "projects": {
+    "label": "Trabalhos Selecionados",
+    "index": "02",
+    "filter_all": "Todos",
+    "view": "Ver Projeto",
+    "code": "Código",
+    "no_results": "Nenhum projeto encontrado.",
+    "featured_label": "Destaque"
+  },
+  "skills": {
+    "label": "Especialidades",
+    "index": "03",
+    "title": "Tecnologia\n& Craft",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Ferramentas"
+  },
+  "contact": {
+    "label": "Contato",
+    "index": "04",
+    "title": "Vamos criar\nalgo",
+    "title_italic": "excepcional.",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "send": "Enviar Mensagem",
+    "sending": "Enviando...",
+    "success": "Mensagem enviada.",
+    "email_label": "E-mail",
+    "phone_label": "Telefone",
+    "location_label": "Localização"
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados",
+    "tagline": "Desenvolvedor Frontend"
+  }
+}

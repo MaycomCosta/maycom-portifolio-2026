@@ -1,0 +1,73 @@
+{
+  "nav": {
+    "work": "Work",
+    "about": "About",
+    "contact": "Contact",
+    "menu": "Menu"
+  },
+  "hero": {
+    "label": "Frontend & Full Stack Developer",
+    "title_1": "Maycom",
+    "title_2": "Costa",
+    "title_italic": "Lee",
+    "tagline": "Building modern and scalable web experiences",
+    "cta": "View Work",
+    "scroll": "Scroll",
+    "location": "São Paulo — Brazil",
+    "available": "Available for projects"
+  },
+  "marquee": {
+    "text": "React — TypeScript — Node.js — Next.js — Vite — Styled Components — PostgreSQL — Docker — Figma — AWS —"
+  },
+  "about": {
+    "label": "About",
+    "index": "01",
+    "title": "Crafting digital\nexperiences",
+    "title_italic": "that endure.",
+    "body_1": "I develop modern web applications, landing pages and digital solutions. Focused on clean UI, performance and scalable architecture.",
+    "body_2": "Each project is an opportunity to merge technical precision with refined design thinking.",
+    "cta": "Download CV",
+    "stat_1_num": "3+",
+    "stat_1_label": "Years",
+    "stat_2_num": "20+",
+    "stat_2_label": "Projects",
+    "stat_3_num": "15+",
+    "stat_3_label": "Technologies"
+  },
+  "projects": {
+    "label": "Selected Work",
+    "index": "02",
+    "filter_all": "All",
+    "view": "View Project",
+    "code": "Code",
+    "no_results": "No projects found.",
+    "featured_label": "Featured"
+  },
+  "skills": {
+    "label": "Expertise",
+    "index": "03",
+    "title": "Technology\n& Craft",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Tools"
+  },
+  "contact": {
+    "label": "Contact",
+    "index": "04",
+    "title": "Let's create\nsomething",
+    "title_italic": "exceptional.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent.",
+    "email_label": "Email",
+    "phone_label": "Phone",
+    "location_label": "Location"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "tagline": "Frontend Developer"
+  }
+}
