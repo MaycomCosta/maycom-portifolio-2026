@@ -161,7 +161,7 @@ const About = ({ t }) => (
         </Title>
         <Body className="reveal reveal-delay-1">{t("about.body_1")}</Body>
         <Body className="reveal reveal-delay-2">{t("about.body_2")}</Body>
-        <CvBtn href="/cv-maycom-costa.pdf" target="_blank" className="reveal reveal-delay-3">
+        <CvBtn href="/cv-maycom-costa.pdf" download className="reveal reveal-delay-3">
           <FiDownload size={13} /> {t("about.cta")}
         </CvBtn>
       </Center>

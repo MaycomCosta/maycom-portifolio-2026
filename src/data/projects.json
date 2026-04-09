@@ -46,29 +46,5 @@
     "github": "https://github.com/MaycomCosta/Finance-Control",
     "featured": false,
     "year": "2024"
-  },
-  {
-    "id": 5,
-    "name": "Meridian API",
-    "description": "Scalable RESTful API with JWT authentication and rate limiting",
-    "stack": ["Node.js", "Express", "PostgreSQL"],
-    "category": "Backend",
-    "image": "/assets/projects/project5.png",
-    "live": "",
-    "github": "https://github.com/MaycomCosta",
-    "featured": false,
-    "year": "2023"
-  },
-  {
-    "id": 6,
-    "name": "Verso Magazine",
-    "description": "Digital magazine platform with editorial layout engine",
-    "stack": ["Next.js", "Sanity CMS", "Tailwind"],
-    "category": "Landing Page",
-    "image": "/assets/projects/project6.png",
-    "live": "https://example.com",
-    "github": "https://github.com/MaycomCosta",
-    "featured": false,
-    "year": "2024"
   }
 ]

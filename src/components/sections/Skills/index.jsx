@@ -66,7 +66,7 @@ const Grid = styled.div`
 `;
 
 const Group = styled.div`
-  padding: 2.5rem 2rem 2.5rem 0;
+  padding: 2.5rem 2rem 2.5rem 1rem;
   border-right: 1px solid var(--gray-200);
 
   &:last-child { border-right: none; }

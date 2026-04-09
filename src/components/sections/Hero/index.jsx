@@ -13,7 +13,6 @@ const Wrap = styled.section`
   overflow: hidden;
 `;
 
-/* Warm tone block — right side like Zara editorial */
 const ToneBlock = styled.div`
   position: absolute;
   top: 0;
